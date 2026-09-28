@@ -13,9 +13,9 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         \App\Models\User::updateOrCreate(
-            ['email' => 'admin@aerobag.com'],
+            ['email' => 'admin@avoftbag.com'],
             [
-                'name' => 'Admin Aerobag',
+                'name' => 'Admin Avoftbag',
                 'password' => bcrypt('password'),
                 'role' => 'admin',
             ]

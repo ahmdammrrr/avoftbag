@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cart - Aerobag</title>
+    <title>Cart - Avoftbag</title>
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=inter:300,400,500,600,700,800,900" rel="stylesheet" />
@@ -26,7 +26,7 @@
                 <!-- Center Logo -->
                 <div class="flex-1 flex justify-center md:flex-none">
                     <a href="/" class="text-3xl font-black text-black tracking-tighter uppercase">
-                        AEROBAG.
+                        AVOFTBAG.
                     </a>
                 </div>
                 <!-- Right Icons -->
@@ -139,11 +139,11 @@
     <footer class="bg-black py-20">
         <div class="max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <div class="text-3xl font-black text-white tracking-tighter uppercase mb-6">
-                AEROBAG.
+                AVOFTBAG.
             </div>
             <p class="text-gray-400 text-base mb-10 font-light">Protecting your gadgets with style.</p>
             <p class="text-xs text-gray-600 uppercase tracking-widest font-semibold">
-                &copy; {{ date('Y') }} Aerobag Malaysia. All Rights Reserved.
+                &copy; {{ date('Y') }} Avoftbag Malaysia. All Rights Reserved.
             </p>
         </div>
     </footer>

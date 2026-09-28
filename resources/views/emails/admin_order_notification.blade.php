@@ -20,7 +20,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="logo">AEROBAG. Admin</div>
+        <div class="logo">AVOFTBAG. Admin</div>
         
         <h1>New Order Received</h1>
         
@@ -56,7 +56,7 @@
         <p>Please log in to the admin dashboard to update the order tracking number once it is shipped.</p>
         
         <div class="footer">
-            &copy; {{ date('Y') }} AEROBAG. All rights reserved.
+            &copy; {{ date('Y') }} AVOFTBAG. All rights reserved.
         </div>
     </div>
 </body>

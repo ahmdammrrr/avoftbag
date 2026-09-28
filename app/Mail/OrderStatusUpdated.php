@@ -24,7 +24,7 @@ class OrderStatusUpdated extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'AEROBAG. - Order Update #' . str_pad($this->order->id, 5, '0', STR_PAD_LEFT),
+            subject: 'AVOFTBAG. - Order Update #' . str_pad($this->order->id, 5, '0', STR_PAD_LEFT),
         );
     }
 

@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="/" class="text-2xl font-black text-black tracking-tighter uppercase hover:opacity-80 transition">
-                        AEROBAG.
+                        AVOFTBAG.
                     </a>
                 </div>
 

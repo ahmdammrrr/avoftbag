@@ -24,7 +24,7 @@ class OrderPlaced extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'AEROBAG. - Order Confirmation #' . str_pad($this->order->id, 5, '0', STR_PAD_LEFT),
+            subject: 'AVOFTBAG. - Order Confirmation #' . str_pad($this->order->id, 5, '0', STR_PAD_LEFT),
         );
     }
 

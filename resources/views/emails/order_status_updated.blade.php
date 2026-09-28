@@ -19,7 +19,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="logo">AEROBAG.</div>
+        <div class="logo">AVOFTBAG.</div>
         
         <h1>Order Update</h1>
         
@@ -42,7 +42,7 @@
         <p>Thank you for shopping with us!</p>
         
         <div class="footer">
-            &copy; {{ date('Y') }} AEROBAG. All rights reserved.
+            &copy; {{ date('Y') }} AVOFTBAG. All rights reserved.
         </div>
     </div>
 </body>

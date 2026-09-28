@@ -39,7 +39,7 @@
     <div class="invoice-box">
         <div class="header">
             <div class="header-left">
-                <div class="logo">AEROBAG.</div>
+                <div class="logo">AVOFTBAG.</div>
             </div>
             <div class="header-right">
                 <span style="font-size: 24px; font-weight: bold;">INVOICE</span><br>
@@ -118,8 +118,8 @@
         </div>
 
         <div class="footer">
-            Thank you for shopping with AEROBAG.<br>
-            If you have any questions concerning this invoice, contact hello@aerobag.com.
+            Thank you for shopping with AVOFTBAG.<br>
+            If you have any questions concerning this invoice, contact hello@avoftbag.com.
         </div>
     </div>
 </body>

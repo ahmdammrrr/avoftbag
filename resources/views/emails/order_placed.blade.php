@@ -17,7 +17,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="logo">AEROBAG.</div>
+        <div class="logo">AVOFTBAG.</div>
         
         <h1>Order Confirmation</h1>
         
@@ -55,7 +55,7 @@
         <p>We will notify you again once your order has been shipped. If you have any questions, simply reply to this email.</p>
         
         <div class="footer">
-            &copy; {{ date('Y') }} AEROBAG. All rights reserved.
+            &copy; {{ date('Y') }} AVOFTBAG. All rights reserved.
         </div>
     </div>
 </body>

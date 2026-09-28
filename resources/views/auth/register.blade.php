@@ -1,7 +1,7 @@
 <x-guest-layout>
     <div class="mb-10">
         <h2 class="text-3xl font-black text-gray-900 uppercase tracking-tighter">Create Account</h2>
-        <p class="text-gray-500 mt-2 text-sm">Join AEROBAG. to experience premium mobility.</p>
+        <p class="text-gray-500 mt-2 text-sm">Join AVOFTBAG. to experience premium mobility.</p>
     </div>
 
     <form method="POST" action="{{ route('register') }}" class="space-y-6">
