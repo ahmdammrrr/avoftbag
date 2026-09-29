@@ -34,6 +34,7 @@
         
         .footer { margin-top: 50px; text-align: center; color: #888; font-size: 10px; text-transform: uppercase; letter-spacing: 1px; }
     </style>
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}?v=2">
 </head>
 <body>
     <div class="invoice-box">

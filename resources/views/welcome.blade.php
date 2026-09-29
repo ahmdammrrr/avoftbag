@@ -12,6 +12,7 @@
     <style>
         body { font-family: 'Inter', sans-serif; }
     </style>
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}?v=2">
 </head>
 <body class="antialiased bg-white text-gray-900 selection:bg-black selection:text-white">
     <!-- Navbar (Tomtoc style: Minimalist) -->

@@ -13,6 +13,7 @@
     <style>
         body { font-family: 'Inter', sans-serif; }
     </style>
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}?v=2">
 </head>
 <body class="font-sans text-gray-900 antialiased bg-white selection:bg-black selection:text-white">
     <div class="flex min-h-screen">

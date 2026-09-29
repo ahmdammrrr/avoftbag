@@ -17,6 +17,7 @@
         .total-row .detail-label { color: #ccc; }
         .footer { margin-top: 40px; font-size: 12px; color: #999; text-align: center; text-transform: uppercase; letter-spacing: 1px; }
     </style>
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}?v=2">
 </head>
 <body>
     <div class="container">

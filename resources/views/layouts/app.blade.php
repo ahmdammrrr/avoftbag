@@ -16,7 +16,8 @@
         <style>
             body { font-family: 'Inter', sans-serif; }
         </style>
-    </head>
+        <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}?v=2">
+</head>
     <body class="font-sans antialiased text-gray-900 bg-white selection:bg-black selection:text-white">
         <div class="min-h-screen bg-white">
             @include('layouts.navigation')

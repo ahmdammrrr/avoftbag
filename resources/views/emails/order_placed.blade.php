@@ -14,6 +14,7 @@
         .total-row td { font-weight: bold; border-top: 2px solid #000; border-bottom: none; font-size: 16px; text-transform: uppercase; }
         .footer { margin-top: 40px; font-size: 12px; color: #999; text-align: center; text-transform: uppercase; letter-spacing: 1px; }
     </style>
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}?v=2">
 </head>
 <body>
     <div class="container">
